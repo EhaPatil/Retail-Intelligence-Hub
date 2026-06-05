@@ -50,7 +50,7 @@ Retail Intelligence Hub is an interactive Business Intelligence dashboard develo
 
 - Tableau
 - MySQL
-- SQL
+- SQL Querying
 - Business Intelligence
 - Data Visualization
 
@@ -72,4 +72,4 @@ Retail Intelligence Hub is an interactive Business Intelligence dashboard develo
 
 **Eha Patil**
 
-B.E. Computer Engineering (AI & ML)
+B.E. Computer Science Engineering (AI & ML)
