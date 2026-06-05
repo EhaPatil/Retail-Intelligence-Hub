@@ -17,7 +17,7 @@ describe orders_raw;
 describe people_raw;
 describe returns_raw;
 
-# STEP 10 — COLUMN NAME STANDARDIZATION
+# COLUMN NAME STANDARDIZATION
 ALTER TABLE returns_raw
 RENAME COLUMN `ï»¿Returned`
 TO Returned;
